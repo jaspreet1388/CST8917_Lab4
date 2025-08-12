@@ -2,7 +2,7 @@ from azure.eventhub import EventHubProducerClient, EventData
 import json
 
 # Replace with your actual connection string
-connection_str = "Endpoint=sb://cst8917evhubns5873.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=rK9/rSJAbN1OC3vG8fWezriYSVOKMo3hV+AEhAKwupI="
+connection_str = "Endpoint=sb://cst8917evhubns5873.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=rK9/abzAbN1OC3vG8fWezriYSVOKMo3hV+AEhAKwupI="
 eventhub_name = "gagokaba"
 
 # Load the sample trip event
