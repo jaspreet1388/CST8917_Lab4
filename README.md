@@ -192,37 +192,8 @@ Use the following post cards:
 
 ### Record a Demo
 
-- Create a short video (3–5 minutes) demonstrating:
-  - Your Logic App in action.
-  - Explanation of your setup.
-  - Any lessons learned.
 
----
 
-## Deliverables
 
-- Your completed Logic App workflow (.json export)
-- A screenshot or exported image of your trip monitoring logic flowchart.
-- Your written project report (can be a separate file or included in README.md) that explains:
-  - Your architecture and Logic App steps
-  - Description of your Azure Function logic
-  - Example input/output
-  - Any extra insights or improvements you suggest
-- A demo video uploaded to YouTube, linked in the `README.md`.
-
----
-
-## Submission Instructions
-
-Submit the following via Brightspace:
-
-- Link to your **public GitHub repository** containing:
-  - Logic App definitions
-  - Optional Function or Cognitive Service code
-  - `README.md` with documentation
-  - Your demo video link (if available)
-- Your GitHub repo must be **well-structured and publicly accessible**.
-
-**Deadline**: *Friday, 1 August 2025*
 
 
